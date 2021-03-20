@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Technical Analysis is the **TRUE** way to trade.
+You should always **find** and **use** *support* and *resistance* levels.
